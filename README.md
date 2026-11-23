@@ -1,75 +1,45 @@
-<h1 align="center">Hi 👋, I'm Sheheryar Yousaf</h1>
-<h3 align="center">Data Science Master's Student @ University of Campania | Aspiring Data Scientist & ML Engineer</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imSheheryar&label=Profile%20views&color=0e75b6&style=flat" alt="imSheheryar" />
+  <img src="assets/banner.png" alt="Sheheryar Yousaf — data science with statistical rigor" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sheheryar-yousaf-01720a268/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+# Sheheryar Yousaf
 
----
+I am an MSc Data Science student at the University of Campania, with a computer science background and software engineering experience. I build reproducible data science systems: pre-specified statistical analyses, external validation, and ML services that ship with tests, CI, and documentation. Previously a software engineer at Diginatives and a research associate at Hybytes.
 
-### 👨‍💻 About Me
-- 🎓 Currently pursuing my **Master's in Data Science** at the **University of Campania "Luigi Vanvitelli"** in Italy.
-- 💼 Previously worked as a **Software Engineer** at Diginatives, focusing on full-stack development and cloud systems.
-- 🌱 I’m currently learning advanced **Machine Learning, Deep Learning, and Big Data Analytics**.
-- 👯 I’m looking to collaborate on **Data Science projects, Kaggle competitions, and Open Source**.
-- 🥅 **2026 Goals:** Transition into a full-time Data Scientist or Machine Learning Engineer role in Italy or Europe.
-- ⚡ Fun fact: I love turning complex data into actionable business insights!
+My current research is an MSc thesis on multivariate analysis and external validation of breast cancer clinical profiles using permutation tests and the Nonparametric Combination (NPC) methodology.
 
----
+## Selected work
 
-### 🛠️ Tech Stack & Tools
+- **[Replica](https://github.com/imSheheryar/replica)** · [dashboard](https://imSheheryar.github.io/replica/) — a pre-specified replication audit of PAM50 across TCGA-BRCA and METABRIC, with censoring-aware permutation tests, NPC, FDR control, external transport, NMF modules, and a clinical evidence dashboard. `Python` · `survival analysis` · `FastAPI` · `Plotly`
 
-**Languages:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-</p>
+- **[Signal](https://github.com/imSheheryar/signal)** · [dashboard](https://imSheheryar.github.io/signal/) — a multimodal earnings-call volatility nowcast using text and voice, with ablations and an interactive dashboard. `Python` · `NLP` · `speech` · `LightGBM`
 
-**Data Science & Machine Learning:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-</p>
+- **[ChurnOps](https://github.com/imSheheryar/churnops)** · [demo](https://churnops-w0nb.onrender.com) — a churn prediction platform with data contracts, MLflow registry gates, drift monitoring, Docker, and CI. `Python` · `MLflow` · `FastAPI` · `Docker`
 
-**Data Visualization & BI:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="PowerBI" />
-</p>
+- **[Clinical MLOps Pipeline](https://github.com/imSheheryar/clinical-mlops-pipeline)** — a clinical risk-classification pipeline with schema validation, XGBoost, MLflow tracking, FastAPI serving, Docker, and Pytest. `Python` · `XGBoost` · `MLflow` · `FastAPI`
 
-**Tools & Platforms:**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
-</p>
+- **[HoopVision AI](https://github.com/imSheheryar/hoopvision-ai)** — a computer-vision pipeline for basketball video: player and ball tracking, team assignment, possession, and annotated tactical views. `Python` · `YOLO` · `OpenCV`
 
----
+- **[Northstar RAG](https://github.com/imSheheryar/northstar-rag)** — a retrieval-augmented chatbot over a technical manual with LangChain, ChromaDB, HuggingFace embeddings, Groq, and Gradio. `Python` · `RAG` · `LangChain` · `Gradio`
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imSheheryar&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imSheheryar&theme=radical" alt="GitHub Streak" />
-</p>
+## How I work
 
----
+- Pre-specify the question before looking at the answer.
+- Validate out of sample, not only in the discovery cohort.
+- Report effect sizes and intervals, not only p-values.
+- Ship with tests, CI, and a README someone else can run.
 
-### 📫 Let's Connect!
-<p align="center">
-  <a href="mailto:sheheryar.yousaf@studenti.unicampania.it"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/sheheryar-yousaf-01720a268/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+## Toolkit
+
+**Statistics and ML:** Python, R, scikit-learn, XGBoost, PyTorch, lifelines, SciPy, permutation tests, NPC, survival analysis  
+**Data and engineering:** SQL, pandas, NumPy, FastAPI, Docker, MLflow, GitHub Actions, Plotly, Tableau, Power BI
+
+## Currently
+
+- MSc Data Science, University of Campania "Luigi Vanvitelli" (2025–2027)
+- Thesis: multivariate analysis and external validation of breast cancer clinical profiles
+- Open to data science and ML engineering roles in Italy or Europe
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/sheheryar-yousaf-01720a268/) · [Email](mailto:imsheheryaryousaf@gmail.com) · [Replica dashboard](https://imSheheryar.github.io/replica/) · [Signal dashboard](https://imSheheryar.github.io/signal/)
