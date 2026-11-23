@@ -1,12 +1,22 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Sheheryar Yousaf — data science with statistical rigor" width="100%">
+  <img src="assets/banner.jpg" alt="Sheheryar Yousaf — data science, engineered" width="100%">
 </p>
 
 # Sheheryar Yousaf
 
-I am an MSc Data Science student at the University of Campania, with a computer science background and software engineering experience. I build reproducible data science systems: pre-specified statistical analyses, external validation, and ML services that ship with tests, CI, and documentation. Previously a software engineer at Diginatives and a research associate at Hybytes.
+I am an MSc Data Science student at the University of Campania, with a computer science background and software engineering experience. I build end-to-end data products: statistical validation and survival analysis, classical and deep learning models, MLOps pipelines, retrieval-augmented LLM applications, computer vision, and decision dashboards.
 
-My current research is an MSc thesis on multivariate analysis and external validation of breast cancer clinical profiles using permutation tests and the Nonparametric Combination (NPC) methodology.
+My current research is an MSc thesis on multivariate analysis and external validation of breast cancer clinical profiles using permutation tests and the Nonparametric Combination (NPC) methodology. I care about the full path from a defensible question to a tested, deployed service.
+
+## What I work on
+
+**Applied statistics and biostatistics.** Pre-specified analyses, permutation tests and NPC, FDR control, survival analysis, external validation, and clinical evidence dashboards.
+
+**ML engineering and MLOps.** Data contracts, experiment tracking, model registry gates, drift monitoring, FastAPI serving, Docker, CI, and reproducible training pipelines.
+
+**RAG and applied LLMs.** Hybrid retrieval, chunking and embeddings, LangChain/LangGraph orchestration, evaluation and guardrails, and streaming interfaces.
+
+**Multimodal and computer vision.** Text and voice features for financial nowcasting, object tracking for sports analytics, and dashboards that make model behavior legible.
 
 ## Selected work
 
@@ -24,21 +34,28 @@ My current research is an MSc thesis on multivariate analysis and external valid
 
 ## How I work
 
+- Start with the decision, not the model.
 - Pre-specify the question before looking at the answer.
-- Validate out of sample, not only in the discovery cohort.
-- Report effect sizes and intervals, not only p-values.
+- Validate out of sample, then monitor after deployment.
 - Ship with tests, CI, and a README someone else can run.
 
 ## Toolkit
 
-**Statistics and ML:** Python, R, scikit-learn, XGBoost, PyTorch, lifelines, SciPy, permutation tests, NPC, survival analysis  
-**Data and engineering:** SQL, pandas, NumPy, FastAPI, Docker, MLflow, GitHub Actions, Plotly, Tableau, Power BI
+**Languages:** Python · R · SQL · Java · MATLAB · TypeScript
+
+**Statistics and ML:** scikit-learn · XGBoost · LightGBM · PyTorch · TensorFlow · lifelines · SciPy · statsmodels · permutation tests · NPC · survival analysis · NMF · clustering
+
+**LLM and retrieval:** LangChain · LangGraph · ChromaDB · HuggingFace · Groq · OpenAI API · RAG evaluation · Gradio · Streamlit
+
+**MLOps and serving:** FastAPI · Docker · MLflow · GitHub Actions · Pytest · data contracts · drift monitoring · Render · AWS
+
+**Data and visualization:** pandas · NumPy · Matplotlib · Seaborn · Plotly · Tableau · Power BI · React
 
 ## Currently
 
 - MSc Data Science, University of Campania "Luigi Vanvitelli" (2025–2027)
 - Thesis: multivariate analysis and external validation of breast cancer clinical profiles
-- Open to data science and ML engineering roles in Italy or Europe
+- Open to data science, ML engineering, and applied AI roles in Italy or Europe
 
 ## Elsewhere
 
