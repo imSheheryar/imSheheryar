@@ -45,6 +45,8 @@ My current research is an MSc thesis on multivariate analysis and external valid
 
 **Statistics and ML:** scikit-learn · XGBoost · LightGBM · PyTorch · TensorFlow · lifelines · SciPy · statsmodels · permutation tests · NPC · survival analysis · NMF · clustering
 
+**Computer vision:** OpenCV · YOLO · object detection · multi-object tracking
+
 **LLM and retrieval:** LangChain · LangGraph · ChromaDB · HuggingFace · Groq · OpenAI API · RAG evaluation · Gradio · Streamlit
 
 **MLOps and serving:** FastAPI · Docker · MLflow · GitHub Actions · Pytest · data contracts · drift monitoring · Render · AWS
