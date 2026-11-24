@@ -49,12 +49,12 @@ The repositories below are built around claims you can check. Each one ships wit
 
 ## Toolkit
 
-**Statistics** — permutation tests · NPC · FDR control · survival analysis · NMF · clustering · external validation
-**Machine learning** — scikit-learn · XGBoost · LightGBM · PyTorch · TensorFlow · lifelines · SciPy · statsmodels
-**LLM and retrieval** — LangChain · LangGraph · ChromaDB · HuggingFace · Groq · OpenAI API · RAG evaluation
-**Engineering** — FastAPI · Docker · MLflow · GitHub Actions · Pytest · data contracts · drift monitoring · Render · AWS
-**Languages** — Python · R · SQL · Java · MATLAB · TypeScript
-**Visualisation** — Plotly · Matplotlib · Seaborn · Tableau · Power BI · React
+- **Statistics** — permutation tests · NPC · FDR control · survival analysis · NMF · clustering · external validation
+- **Machine learning** — scikit-learn · XGBoost · LightGBM · PyTorch · TensorFlow · lifelines · SciPy · statsmodels
+- **LLM and retrieval** — LangChain · LangGraph · ChromaDB · HuggingFace · Groq · OpenAI API · RAG evaluation
+- **Engineering** — FastAPI · Docker · MLflow · GitHub Actions · Pytest · data contracts · drift monitoring · Render · AWS
+- **Languages** — Python · R · SQL · Java · MATLAB · TypeScript
+- **Visualisation** — Plotly · Matplotlib · Seaborn · Tableau · Power BI · React
 
 ## Currently
 
